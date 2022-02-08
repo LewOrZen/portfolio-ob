@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-ob",
+  "version": "1.0.0",
+  "description": "My website development portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenbrannagan/portfolio-ob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenbrannagan/portfolio-ob/issues"
+  },
+  "homepage": "https://github.com/owenbrannagan/portfolio-ob#readme",
+  "devDependencies": {
+    "sass": "^1.49.7"
+  }
+}
